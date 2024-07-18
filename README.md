@@ -54,13 +54,4 @@ You must have prior knowledge of the following topics to complete this project:
 
 ---
 
-## Collaborators
-
-- [Karthik Sagar Nallagula](https://github.com/karthiksagarN)
-- [Shweta Thakur](https://github.com/ShwetaThakur702)
-- [Tanay Saxena](https://github.com/Tanay-Saxena)
-- [Rishabh Prasad](https://github.com/Riri0410)
-
----
-
 For more details, please refer to the respective documentation and tutorials linked above.
